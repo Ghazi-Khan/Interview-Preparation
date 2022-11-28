@@ -1,0 +1,89 @@
+
+  1. DSA
+  ----------------------------------------------------------
+    1. Arrays
+    2. Strings
+    3. Two pointers
+    4. Bit manipulation
+    5. Tries
+    6. Recusion
+
+    1. Graph
+    2. Tree
+    3. DP
+    4. Greedy approach
+
+  * Resources ->
+
+  ==========================================================
+  2. System Design
+  ----------------------------------------------------------
+    1. LLD
+    2. HLD
+
+  * Resources ->
+    1. LLD : https://youtube.com/playlist?list=PL6W8uoQQ2c61X_9e6Net0WdYZidm7zooW
+    2. HLD : https://youtube.com/playlist?list=PL6W8uoQQ2c63W58rpNFDwdrBnq5G3EfT7
+    3. https://youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a
+    4. https://youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
+
+  ==========================================================
+  3. JS
+  ----------------------------------------------------------
+    1. Namaste JavaScript
+
+  * Resources ->
+    1. Namaste JavaScript : https://youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP
+    2. Core concepts : https://youtube.com/playlist?list=PLlasXeu85E9eLVlWFs-nz5PKXJU4f7Fks
+    3. Interview question : https://github.com/sudheerj/javascript-interview-questions [git url]
+
+  ==========================================================
+  4. Type-script
+  ----------------------------------------------------------
+
+  * Resources ->
+  ==========================================================
+
+  5. React
+  ----------------------------------------------------------
+    1. React
+
+  * Resources ->
+    1. React core : https://youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3
+  ==========================================================
+
+  6. Redux
+  ----------------------------------------------------------
+
+  * Resources ->
+  ==========================================================
+
+  7. HTML & CSS (Bootstrap)
+  ----------------------------------------------------------
+
+  * Resources ->
+  ==========================================================
+
+  8. Node (Expresss & Nest)
+  ----------------------------------------------------------
+
+  * Resources ->
+  ==========================================================
+
+  9. MongoDB / MySql
+  ----------------------------------------------------------
+
+  * Resources ->
+  ==========================================================
+
+  10. git (Basic commands)
+  ----------------------------------------------------------
+
+  * Resources ->
+  ==========================================================
+
+  11. aws (Basci services)
+  ----------------------------------------------------------
+
+  * Resources ->
+  ==========================================================
